@@ -1,0 +1,14 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "A simple chat app using node js and express",
+  "main": "App.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Sameer pokharel",
+  "license": "ISC"
+}
